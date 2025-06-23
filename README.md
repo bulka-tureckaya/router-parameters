@@ -47,9 +47,13 @@ C:\path\to\venv\Scripts\python.exe C:\path\to\project\wifi.py >> C:\path\to\proj
 ## Визуализация в Grafana
 Пример дашборда для отображения:
 - График уровня сигнала по времени
-- Топ-5 сетей по силе сигнала
-- Распределение сетей по каналам
+![image](https://github.com/user-attachments/assets/2e774435-9dd7-4436-87fd-7cff6e2ec8c5)
 
+- Топ-5 сетей по силе сигнала
+![image](https://github.com/user-attachments/assets/f5f1fefa-1d34-4508-889d-5e3dd8b10871)
+
+- Распределение сетей по каналам
+![image](https://github.com/user-attachments/assets/d733107e-0788-4c8c-9299-dab3c1afdb91)
 
 ## База данных
 Создание партицированной таблицы:
